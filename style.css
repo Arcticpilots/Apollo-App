@@ -1,0 +1,35 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+}
+
+.logo {
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.nav-item {
+  margin: 0 10px;
+}
+
+#main{
+  background: url('./image/background.png');
+  background-size: cover;
+  /*height: 100vh;*/
+}
+
+.main-header{
+  margin-top: 80px;
+}
+
+.header-title {
+  font-weight: 900;
+}
+
+.btn-outline-light{
+  margin-left: 20px;
+}
+
+.btn {
+  margin-top: 10px;
+}
