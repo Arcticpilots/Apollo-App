@@ -15,11 +15,12 @@ body {
 #main{
   background: url('./image/background.png');
   background-size: cover;
-  /*height: 100vh;*/
+  height: 100%;
+  padding-bottom: 20px;
 }
 
 .main-header{
-  margin-top: 80px;
+  margin-top: 30px;
 }
 
 .header-title {
@@ -32,4 +33,29 @@ body {
 
 .btn {
   margin-top: 10px;
+}
+
+.info-width {
+  width: 60%;
+  font-size: 1.2rem;
+}
+
+.overview-icon {
+  font-size: 2rem;
+  color: rgb(90, 52, 252);
+}
+
+.overview-row {
+  margin-top: 2rem;
+}
+
+#overview {
+  margin-top: 3rem;
+}
+
+.overview-title{
+  font-weight: 600;
+}
+.overview-icon, .overview-title, .info-width {
+  margin: 0.75rem 0;
 }
