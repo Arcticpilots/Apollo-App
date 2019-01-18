@@ -74,3 +74,30 @@ body {
 .carousel-item {
   padding: 5% 15%;
 }
+
+#pricing {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.card {
+  box-shadow: -13px 13px 45px -15px rgba(0,0,0,0.75);
+  border-color: rgb(90, 52, 252);
+  border-radius: 10px;
+  padding: 3% 2%;
+}
+
+.pricing-title {
+  margin-bottom: 50px;
+}
+
+.card-subtitle {
+  color: rgb(90, 52, 252);
+  font-weight: 900;
+  font-size: 2rem;
+  padding: 5% 0;
+}
+
+.card .btn {
+  padding: 3% 20%;
+}
