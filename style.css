@@ -101,3 +101,16 @@ body {
 .card .btn {
   padding: 3% 20%;
 }
+
+
+#cta{
+  background-color: rgb(90, 52, 252);
+  margin: 50px 0;
+  padding: 7% 15%;
+}
+
+.cta-title{
+  font-weight: 900;
+  color: white;
+  padding: 5% 0;
+}
