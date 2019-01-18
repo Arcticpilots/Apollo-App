@@ -59,3 +59,18 @@ body {
 .overview-icon, .overview-title, .info-width {
   margin: 0.75rem 0;
 }
+
+
+#testimonials{
+  background-color: rgb(90, 52, 252);
+  margin-top: 75px;
+  padding: 75px 0;
+}
+
+.section-title{
+  font-size: 2rem;
+}
+
+.carousel-item {
+  padding: 5% 15%;
+}
